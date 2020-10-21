@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"Ex1","l":"ComplexFunction"},{"p":"Ex1","l":"Monom"},{"p":"Ex1","l":"Polynom"}]
